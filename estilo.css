@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+table{
+    width: 600px;
+    border-collapse: collapse;
+    margin: auto;
+    margin-top: 300px;
+    text-align: center;
+}
+thead{
+    background-color: rgb(160, 160, 160);
+}
+#m{
+    background-color: rgb(255, 147, 165);
+}
+#h{
+    background-color: rgb(0, 183, 255);
+}
+.m td{
+    background-color: rgb(250, 201, 209);
+}
+.h td{
+    background-color: rgb(193, 235, 255);
+}
+caption{
+    font-size: 1.3em;
+    padding: 15px;
+    font-weight: bold;
+}
+
+th, td{
+    border: 2px solid rgb(85, 85, 85);
+    padding: 8px;
+}
